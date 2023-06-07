@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 authors = ["JohannesIBK <mail@greuter.dev>"]
 license = "MIT"
+description = "Derive macro for implementing ToSql and FromSql for a struct"
+keywords = ["postgres", "json", "derive", "macro"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
